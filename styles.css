@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+th {
+    background-color: #8B0000; /* dark red */
+    color: white;
+    padding: 10px;
+}
+
+.row-waist {
+    background-color: #f28f8f; /* light red/pink */
+}
+
+.row-chest {
+    background-color: #f7dddd; /* light pink */
+}
+
+.row-sleeve {
+    background-color: #e2e2e2; /* light gray */
+}
+
+td {
+    padding: 8px;
+}
